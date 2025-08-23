@@ -43,7 +43,7 @@ pip install yfinance numpy pandas matplotlib scikit-learn tensorflow
 1.  **Clone the Repository**:
 
     ``` bash
-    git clone https://github.com/username/bitcoin-price-prediction.git
+    git clone https://github.com/shervinnd/bitcoin-price-prediction.git
     cd bitcoin-price-prediction
     ```
 
@@ -95,4 +95,4 @@ Let's predict the future of Bitcoin together! 🚀💰
 
 ------------------------------------------------------------------------
 
-*Built with ❤️ by \[Your Name\]*
+*Built by Miracle⚡*
